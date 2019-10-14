@@ -1,5 +1,6 @@
 <?
 	// phpinfo();
 	echo "pendek";
+	//asolole
 
  ?>
