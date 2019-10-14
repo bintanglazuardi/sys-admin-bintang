@@ -1,5 +1,3 @@
 <?
-	// phpinfo();
-	echo "pendek";
-
+	phpinfo();
  ?>
